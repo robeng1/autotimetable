@@ -1,0 +1,425 @@
+Course name,Department code,Course code,T,P,C,Tutorial,Lecturer name,Lecturer Title,Lecturer Id,Section code,Section name,Year,Section department,Class size
+Applied Electricity,EE,151,2,2,3,0,E.A Frimpong,Dr,,,,1,Chemical,100
+Communication Skills I,ENGL,157,2,0,2,0,P. Yeboah,Dr,,,,1,Chemical,100
+Algebra,MATH,151,4,1,4,0,J. Ackora- Prah,Dr,,,,1,Chemical,100
+Technical Drawing,ME,159,1,2,2,0,A. K. Sunnu,Dr,,,,1,Chemical,100
+Inorganic Chemistry for Engineers,CHE,151,2,0,2,0,G. Darko,Dr,,,,1,Chemical,100
+Organic Chemistry for Engineers,CHE,153,2,0,2,0,M. Badu,Dr,,,,1,Chemical,100
+Practical Chemistry I,CHEM,169,0,6,3,0,J. K. Mensah,Dr,,,,1,Chemical,100
+Engineering in Society,CENG,291,0,8,2,0,E. K. Baah- Ennumh,Dr,,,,2,Chemical,150
+Chemical Process Calculations I,CHE,251,2,0,2,0,M. A. Rockson,Dr,,,,2,Chemical,150
+Chemical Engineering Thermodynamics I,CHE,253,2,0,2,0,J. Ahiekpor,Dr,,,,2,Chemical,150
+Fluid Transport,CHE,255,3,0,3,0,Zs. Momade,Dr,,,,2,Chemical,150
+Analytical Chemistry for Chemical Engineers,CHE,257,3,0,3,0,P. Boakye,Dr,,,,2,Chemical,150
+Chemical Process Industries,CHE,259,2,0,2,0,B. Afotey,Dr,,,,2,Chemical,150
+Computer Application for Engineers,CHE,261,1,3,2,0,M. F. Baidoo,Dr,,,,2,Chemical,150
+Mass Transfer Processes,CHE,351,2,1,0,0,E. G. Ankudey,Dr,,,,3,chemical,120
+Chemical Engineering Laboratory I,CHE,353,2,1,0,0,E. Awarikabey,Dr,,,,3,chemical,120
+Process Engineering Project I,CHE,355,2,1,0,0,All Staff,Dr,,,,3,chemical,120
+Experimental Data Analysis,CHE,357,2,1,0,0,M. A. Rockson,Dr,,,,3,chemical,120
+Mechanical Separation Processes,CHE,359,2,1,0,0,L. Darkwah,Dr,,,,3,chemical,120
+Silicate Technology I,CHE,361,2,0,0,0,Zs. Momade,Dr,,,,3,chemical,120
+Polymer Technology,CHE,363,2,0,0,0,M. Y. Mensah,Dr,,,,3,chemical,120
+Natural Gas Processing Technology,CHE,371,2,0,0,0,E. G. Ankudey,Dr,,,,3,chemical,120
+Introductory Economics I,ECON,151,2,0,0,0,J. D. Bosco,Dr,,,,3,chemical,120
+French For Communication Purposes I,FC,181,2,0,0,0,A. Dassoneville,Dr,,,,3,chemical,120
+Chemical Process Design and Economics,CHE,451,4,0,4,0,B. Afotey,Dr,,,,4,chemical,80
+Plant Design Project I,CHE,453,0,6,3,0,All staff,Dr,,,,4,chemical,80
+Process Control and Instrumentation,CHE,455,2,0,2,0,E. K. Baah-Ennumh,Dr,,,,4,chemical,80
+Chemical Engineering Laboratory II,CHE,457,0,6,3,0,E. Awarikabey,Dr,,,,4,chemical,80
+Safety and Pollution Control,CHE,459,3,0,3,0,M. Y. Mensah,Dr,,,,4,chemical,80
+Computer Optimization Methods,CHE,461,2,0,2,0,E. K. Baah-Ennumh,Dr,,,,4,chemical,80
+Fuel And Combustion Technology,PCE,461,2,0,2,0,M. Y. Woode,Dr,,,,4,chemical,80
+Biochemical Technology,CHE,467,2,0,2,0,N. Y. Asiedu,Dr,,,,4,chemical,80
+Inoragnic Chemistry for Engineers,CHE,151,2,0,2,0,S. E. Agorku,Dr,,,,1,Petrochemical,70
+Oragnic Chemistry for Engineers,CHE,153,2,0,2,0,M. Badu,Dr,,,,1,Petrochemical,70
+Practical Chemistry I,CHEM,169,0,6,3,0,J. K. Mensah,Dr,,,,1,Petrochemical,70
+Applied Electricity,EE,151,2,2,3,0,E. A. Frimpong,Dr,,,,1,Petrochemical,70
+Communication Skills I,ENGL,157,2,0,2,0,P. Yeboah,Dr,,,,1,Petrochemical,70
+Algebra,MATH,151,4,1,4,0,J. Ackorah- Prah,Dr,,,,1,Petrochemical,70
+Technical Drawing,ME,159,1,2,2,0,F. Davis,Dr,,,,1,Petrochemical,70
+Engineering in Society,CENG,291,0,8,2,0,E. K. Baah- Ennumh,Dr,,,,2,Petrochemical,80
+Chemical Process Calculations I,CHE,251,2,0,2,0,M. A. Rockson,Dr,,,,2,Petrochemical,80
+Chemical Engineering Thermodynamics I,CHE,253,2,0,2,0,J. Ahiekpor,Dr,,,,2,Petrochemical,80
+Fluid Transport,CHE,255,3,0,3,0,M. A. Rockson,Dr,,,,2,Petrochemical,80
+Analytical Chemistry for Chemical Engineers,CHE,257,3,0,3,0,P. Boakye,Dr,,,,2,Petrochemical,80
+Computer Application for Engineers,CHE,261,1,3,2,0,E. Awarikabey,Dr,,,,2,Petrochemical,80
+Introduction to Petrochemical Industries,PCE,253,2,0,2,0,M. F. Baidoo,Dr,,,,2,Petrochemical,80
+Differential Equations,MATH,251,4,1,4,0,Benedict Barnes,Dr,,,,2,Petrochemical,80
+Experimental Data Analysis,CHE,357,3,0,3,0,L. Darkwah,Dr,,,,3,Petrochemical,85
+Separation Processes I,PCE,351,3,0,3,0,E. G. Ankudey,Dr,,,,3,Petrochemical,85
+Petrochemical Engineering Laboratory I,PCE,353,0,4,2,0,E. Awarikabey,Dr,,,,3,Petrochemical,85
+Fire and Safety Engineering,PCE,355,2,0,2,0,Zs. Momade,Dr,,,,3,Petrochemical,85
+Organic and Petrochemical Synthesis,PCE,357,2,0,2,0,M. Y. Woode,Dr,,,,3,Petrochemical,85
+Petrochemical Fluid Properties,PCE,359,2,0,2,0,E. G. Ankudey,Dr,,,,3,Petrochemical,85
+Polymer Technology,CHE,363,2,0,2,0,M. Y. Mensah,Dr,,,,3,Petrochemical,85
+Essential Oils,CHE,367,2,0,2,0,M. Y. Woode,Dr,,,,3,Petrochemical,85
+Introduction to Economics I,ECON,151,2,0,2,0,J. D. Bosco,Dr,,,,3,Petrochemical,85
+French for Communication Purposes I,FC,181,2,0,2,0,B. Ampong,Dr,,,,3,Petrochemical,85
+Chemical Process Design and Economics,CHE,451,4,0,4,0,B. Afotey,Dr,,,,4,Petrochemical,130
+Process Control and Instrumentation,CHE,455,2,0,2,0,M. F. Baidoo,Dr,,,,4,Petrochemical,130
+Catalysis,PCE,451,2,0,2,0,M. F. Baidoo,Dr,,,,4,Petrochemical,130
+Project I,PCE,453,0,5,2,0,All Staff,Dr,,,,4,Petrochemical,130
+Pollution Control in Petrochemical Industry,PCE,455,2,0,2,0,P. Boakye,Dr,,,,4,Petrochemical,130
+Corrosion Engineering,PCE,457,2,0,2,0,L. Darkwah,Dr,,,,4,Petrochemical,130
+Computer Optimisation Methods,CHE,461,2,0,2,0,E. K. Baah- Ennumh,Dr,,,,4,Petrochemical,130
+Fuel and Combustion Technology,PCE,461,2,0,2,0,M. Y. Woode,Dr,,,,4,Petrochemical,130
+Pharmaceutical Technology,CHE,471,2,0,2,0,R. Johnson,Dr,,,,4,Petrochemical,130
+Fertilizer Technology,CHE,365,2,0,2,0,L. Darkwah,Dr,,,,4,Petrochemical,130
+Applied Electricity,EE,151,2,2,3,0,E.A Frimpong,Dr,,,,1,Material,140
+Communication Skills,ENGL,157,2,0,2,0,J. Aning,Dr,,,,1,Material,140
+Algebra,MATH,151,4,1,4,0,A. Prah,Dr,,,,1,Material,140
+Technical Drawing,ME,159,1,3,2,0,I. A. Edwin,Dr,,,,1,Material,140
+Engineering Technology I,ME,195,0,5,2,0,I. A. Edwin,Dr,,,,1,Material,140
+Chemistry for Materials Engineers I,MSE,151,2,1,2,0,F. O. Agyemang,Dr,,,,1,Material,140
+Introduction to Info Tech,MSE,153,1,2,2,0,K. Mensah-Darkwa,Dr,,,,1,Material,140
+Engineering in Society,CENG,291,2,0,2,0,All Academic Staff,Dr,,,,2,Material,110
+Differential Equations,MATH,251,4,1,4,0,F.T. Oduro,Dr,,,,2,Material,110
+Strength of Materials I,ME,255,3,0,3,0,K. Mensah-Darkwa,Dr,,,,2,Material,110
+Transport Phenomena in Mat Proc. I,MSE,251,2,0,2,0,A. A. Adjaottor,Dr,,,,2,Material,110
+Mechanical Behaviour of Materials,MSE,253,3,0,3,0,S. Kwofie,Dr,,,,2,Material,110
+Principles of Materials Science II,MSE,255,2,0,2,0,E. K. Arthur,Dr,,,,2,Material,110
+Indigenous Processing,MSE,257,1,1,1,0,E. K. Arthur,Dr,,,,2,Material,110
+Probability and Statistics,MATH,353,2,1,2,0,I.A Adjei,Dr,,,,3,Material,90
+Strength of Materials II,ME,355,3,0,3,0,K. Mensah-Darkwa,Dr,,,,3,Material,90
+Engineering Ceramics I,MSE,351,3,0,3,0,A. Andrews,Dr,,,,3,Material,90
+Pyrometallurgy,MSE,353,3,0,3,0,A. Andrews,Dr,,,,3,Material,90
+Polymer Processing,MSE,355,2,0,2,0,A. A. Adjaottor,Dr,,,,3,Material,90
+Foundry Technology I,MSE,357,3,0,3,0,S. Kwofie,Dr,,,,3,Material,90
+Materials Engineering Lab. I,MSE,359,0,5,2,0,E. Gikunoo,Dr,,,,3,Material,90
+Engineering Economy and Mgt,ME,491,3,0,3,0,A.K Intsiful,Dr,,,,4,Material,50
+Composite Materials,MSE,451,3,0,3,0,E. Gikunoo,Dr,,,,4,Material,50
+Corrosion of Eng. Materials,MSE,453,3,0,3,0,A. Andrews,Dr,,,,4,Material,50
+Electrical/Magnetic Properties of Mats.,MSE,455,3,0,3,0,F. O. Agyemang,Dr,,,,4,Material,50
+Metal Forming Processes,MSE,457,3,0,3,0,S. Kwofie,Dr,,,,4,Material,50
+Vacation training,MSE,459,0,0,0,0,All Academic Staff,Dr,,,,4,Material,50
+Project 1,MSE,497,0,6,3,0,All Academic Staff,Dr,,,,4,Material,50
+Applied Electricity,EE,151,2,2,3,0,E. A. Frimpong,Dr,,,,1,Metallurgial,75
+Communication Skills I,ENGL,157,2,0,2,0,J. Aning,Dr,,,,1,Metallurgial,75
+Basic Geology,GED,151,2,1,2,0,S.K.Y Gawu,Dr,,,,1,Metallurgial,75
+Algebra,MATH,151,4,1,4,0,W. Obeng Dentah,Dr,,,,1,Metallurgial,75
+Technical Drawing,ME,159,1,3,2,0,I. A. Edwin,Dr,,,,1,Metallurgial,75
+Engineering Technology I,ME,195,0,5,2,0,I. A. Edwin,Dr,,,,1,Metallurgial,75
+Introduction to Information Technology,MSE,153,1,2,2,0,K. Mensah-Darkwa,Dr,,,,1,Metallurgial,75
+Engineering in Society,CENG,291,2,0,2,0,All Academic Staff,Dr,,,,2,Metallurgical,60
+Mineralogy,GED,251,2,2,3,0,C. Amejoe,Dr,,,,2,Metallurgical,60
+Differential Equations,MATH,251,4,1,4,0,W. Obeng Dentah,Dr,,,,2,Metallurgical,60
+Metallurgical Thermodynamics,METE,251,3,0,3,0,Y. H. Gbologah,Dr,,,,2,Metallurgical,60
+Transport Phenomena in Materials Processing I,MSE,251,3,0,3,0,A. A. Adjaottor,Dr,,,,2,Metallurgical,60
+Mechanical Behaviour of Materials,MSE,253,2,0,2,0,S. Kwofie,Dr,,,,2,Metallurgical,60
+Principles of Materials Science II,MSE,255,2,0,2,0,E. K. Arthur,Dr,,,,2,Metallurgical,60
+Indigenous Processing,MSE,257,1,1,1,0,E. K. Arthur,Dr,,,,2,Metallurgical,60
+Probability and Statistics,MATH,353,2,1,2,0,D. Asamoah,Dr,,,,3,Metallurgical,75
+Principles of Hydrometallurgy,METE,351,3,0,3,0,F. W. Y. Momade,Dr,,,,3,Metallurgical,75
+Mineral Processing II,METE,355,3,0,3,0,B. Koomson,Dr,,,,3,Metallurgical,75
+Metallurgical Eng. Laboratory I,METE,357,0,4,2,0,E. Gikunoo,Dr,,,,3,Metallurgical,75
+Pyrometallurgy,MSE,353,3,0,3,0,E. Gikunoo,Dr,,,,3,Metallurgical,75
+Foundry Technology I,MSE,357,3,0,3,0,S. Kwofie,Dr,,,,3,Metallurgical,75
+Engineering Economics and Management,ME,491,3,0,3,0,A.K Intsiful,Dr,,,,4,Metallurgical,55
+Corrosion And Corrosion Control,METE,457,3,0,3,0,A. Andrews,Dr,,,,4,Metallurgical,55
+Metalworking Processes,MSE,457,3,0,3,0,S. Kwofie,Dr,,,,4,Metallurgical,55
+Mettalurgical Plant Design/Operations,METE,451,3,1,3,0,B. Koomson,Dr,,,,4,Metallurgical,55
+Hydrometallurgy of light metals,METE,453,2,0,2,0,F. W. Y. Momade,Dr,,,,4,Metallurgical,55
+Vacation training,METE,455,0,3,1,0,All Academic Staff,Dr,,,,4,Metallurgical,55
+Project 1,METE,497,0,6,3,0,All Academic Staff,Dr,,,,4,Metallurgical,55
+Algebra,MATH,151,4,1,4,0,F. T. Oduro,Dr,,,,1,Biomedical,87
+Technical Drawing,ME,159,1,3,2,0,Y. A. K. Fiagbe,Dr,,,,1,Biomedical,87
+Communication Skills I,ENGL,157,2,0,2,0,B. Ampong,Dr,,,,1,Biomedical,87
+Basic Mechanics,ME,161,3,1,3,0,F. W. Adam,Dr,,,,1,Biomedical,87
+Applied Electricity,EE,151,2,2,3,0,E. A. Frimpong,Dr,,,,1,Biomedical,87
+Cell Biology,BME,161,2,0,2,0,Y. Ahmed/ SMS,Dr,,,,1,Biomedical,87
+Engineering Technology,COE,153,0,4,2,0,P. Y. Okyere,Dr,,,,1,Biomedical,87
+Differential Equations,MATH,251,4,1,4,0,K. F Darkwah,Dr,,,,2,Biomedical,90
+C. Programming,BME,253,2,3,3,0,E. Keelson,Dr,,,,2,Biomedical,90
+Anatomy and Physiology For Engineers I,COE,285,4,0,4,0,D. A. Y. Agyapong,Dr,,,,2,Biomedical,90
+Semiconductor Devices,COE,271,2,0,2,0,B. Kommey,Dr,,,,2,Biomedical,90
+Biomedical Engineering Design I,BME,251,2,2,3,0,P.E. Adjei,Dr,,,,2,Biomedical,90
+Engineering in Society,CENG,291,1,0,1,0,P. Odame,Dr,,,,2,Biomedical,90
+Literature in English I,ENGL,263,2,0,2,0,Z. Osei,Dr,,,,2,Biomedical,90
+French For Communication I,FREN,181,2,0,2,0,D. Pimpong,Dr,,,,2,Biomedical,90
+Introductory Economics I,ECON,151,2,0,2,0,E. Buabeng,Dr,,,,2,Biomedical,90
+Account I,CSM,157,2,0,2,0,K. S. B.,Dr,,,,2,Biomedical,90
+Linear Electronic Circuits,COE,371,3,1,3,0,A.S. Agbemenu,Dr,,,,3,Biomedical,45
+Probability and Statistics,MATH,353,2,1,2,0,E. Harris,Dr,,,,3,Biomedical,45
+Signal & Systems,TE,385,3,0,3,0,K. A. P Agyekum,Dr,,,,3,Biomedical,45
+Numerical Methods,MATH,351,2,1,2,0,A. Agyei,Dr,,,,3,Biomedical,45
+Microprocessors,COE,381,2,2,3,0,J. Yankey,Dr,,,,3,Biomedical,45
+Object Oriented Programming,COE,351,2,4,4,0,B. Kommey,Dr,,,,3,Biomedical,45
+Research Methods,BME,397,2,3,3,0,P. Odame,Dr,,,,3,Biomedical,45
+Vacation Training,COE,499,0,8,2,0,All Academic Staff,Dr,,,,4,Biomedical,78
+Medical Imaging II,BME,451,2,2,3,0,E. K. T. Addison,Dr,,,,4,Biomedical,78
+Bioinstrumentation II,BME,471,2,2,3,0,I. Acquah,Dr,,,,4,Biomedical,78
+Biomechanics I,BME,461,2,2,3,0,P. Odame,Dr,,,,4,Biomedical,78
+Biomaterials II,BME,463,3,0,3,0,D. A. Y. Agyapong,Dr,,,,4,Biomedical,78
+Engineering Econs And Management,ME,491,2,0,2,0,A. K. Instiful/ S. H. M.,Dr,,,,4,Biomedical,78
+Project I,BME,497,0,6,3,0,All Academic Staff,Dr,,,,4,Biomedical,78
+Environmental Studies,CE,155,2,0,2,0,K. Nyarko,Dr,,,,1,Computer,89
+Engineering Technology,COE,153,0,4,2,0,P. Y. Okyere,Dr,,,,1,Computer,89
+Introduction to Information Technology,COE,157,2,1,2,0,B. Yeboah- Akowuah,Dr,,,,1,Computer,89
+Applied Electricity,COE,181,2,2,3,0,E. A. Frimpong,Dr,,,,1,Computer,89
+Communication Skills 1,ENGL,157,2,0,2,0,English,Dr,,,,1,Computer,89
+Algebra,MATH,151,4,1,4,0,F. T. Oduro,Dr,,,,1,Computer,89
+Technical Drawing,ME,159,1,3,2,0,Y. A. K. Fiagbe,Dr,,,,1,Computer,89
+Basic Mechanics,ME,161,3,1,3,0,F. W. Adam,Dr,,,,1,Computer,89
+Differential Equations,MATH,251,4,1,4,0,K. F. Darkwah,Dr,,,,2,Computer,112
+Discrete Structures,COE,251,3,1,3,0,P. Yirenkyi,Dr,,,,2,Computer,112
+Communication Systems,COE,241,2,1,2,0,B. Yeboah-Akowuah,Dr,,,,2,Computer,112
+Semiconductor Devices,COE,271,2,0,2,0,B. Kommey,Dr,,,,2,Computer,112
+Circuit Theory,COE,287,2,1,2,0,P. Y. Okyere,Dr,,,,2,Computer,112
+Computer Engineering Lab. I,COE,291,0,7,2,0,All Academic Staff,Dr,,,,2,Computer,112
+Computer Organisation,COE,273,2,0,2,0,H. Nunoo-Mensah,Dr,,,,2,Computer,112
+Engineering in Society,CENG,291,0,8,2,0,P. E. Adjei,Dr,,,,2,Computer,112
+Object Oriented Programming,COE,351,2,4,4,0,B. Kommey,Dr,,,,3,Computer,54
+Linear Electronic Circuits,COE,371,3,1,3,0,A. S. Agbemenu,Dr,,,,3,Computer,54
+Microprocessors,COE,381,2,2,3,0,J. Yankey,Dr,,,,3,Computer,54
+Classical Control Systems,COE,387,2,2,3,0,G. S. Klogo,Dr,,,,3,Computer,54
+Numerical Methods,MATH,351,2,1,2,0,A. Agyei,Dr,,,,3,Computer,54
+Probability and Statistics,MATH,353,2,1,2,0,E. Harris,Dr,,,,3,Computer,54
+Information Theory,COE,343,2,0,2,0,E. K. Akowuah,Dr,,,,3,Computer,54
+Computer Networking,COE,475,3,2,4,0,E. K. Akowuah,Dr,,,,4,Computer,89
+Computer Architecture,COE,485,2,2,3,0,K. O. Boateng,Dr,,,,4,Computer,89
+Project I,COE,497,0,6,3,0,All Academic Staff,Dr,,,,4,Computer,89
+Vacation Training,COE,499,0,8,2,0,All Academic Staff,Dr,,,,4,Computer,89
+Engineering Economics And Management,ME,491,3,0,3,0,S. H. M. Aikins/ A. K. Intsiful,Dr,,,,4,Computer,89
+Distributed Computing,COE,453,2,2,3,0,Klogo,Dr,,,,4,Computer,89
+Computer Graphics,COE,451,2,2,3,0,Yankey,Dr,,,,4,Computer,89
+Artificial Intelligence,COE,457,2,2,3,0,Henry,Dr,,,,4,Computer,89
+Inorganic Chemistry for Enginneers,CHE,151,0,0,2,0,S. E. Agorku,Dr,,,,1,Petroluem,77
+Organic Chemistry for Engineers,CHE,153,0,0,2,0,C. O. Akoto,Dr,,,,1,Petroluem,77
+Practical Chemistry I,CHEM,169,0,0,3,0,J. K. Mensah,Dr,,,,1,Petroluem,77
+Applied Electricity,EE,151,0,0,3,0,E.A. Frimpong,Dr,,,,1,Petroluem,77
+Communication Skills I,ENGL,157,0,0,2,0,P. Yeboa,Dr,,,,1,Petroluem,77
+Technical Drawing,ME,159,0,0,2,0,I. Davies,Dr,,,,1,Petroluem,77
+Mathematics I,MATH,151,0,0,4,0,J. Akora-Prah,Dr,,,,1,Petroluem,77
+Engineering in Society,CENG,291,0,0,2,0,E.O. Ansah,Dr,,,,2,Petroleum,80
+Chemical Engineering Thermodynamics I,CHE,253,0,0,2,0,E.O. Ansah,Dr,,,,2,Petroleum,80
+Differential Equations,MATH,251,0,0,4,0,F.T Oduro,Dr,,,,2,Petroleum,80
+Petroleum Engineering Calculations,PETE,251,0,0,3,0,A. Hama,Dr,,,,2,Petroleum,80
+Introduction to Petroleum Engineering,PETE,253,0,0,2,0,S.K Donyinah,Dr,,,,2,Petroleum,80
+Computer Applications for Petroleum Engineers,PETE,261,0,0,2,0,E.O. Ansah,Dr,,,,2,Petroleum,80
+Petroleum Fluid Dynamics,PETE,257,0,0,3,0,A. Hama,Dr,,,,2,Petroleum,80
+Basic Swimming,SES,171,0,0,2,0,Sports Department,Dr,,,,2,Petroleum,80
+Experimental Data Analysis,CHE,357,0,0,3,0,E.Omari,Dr,,,,3,Petroleum,78
+Principles of Land Surveying,GE,183,0,0,3,0,A. Arko Adjei,Dr,,,,3,Petroleum,78
+Industry Safety and Environmental Protection,PETE,371,0,0,2,0,Dr Donyinah,Dr,,,,3,Petroleum,78
+Formation Evaluation,PETE,353,0,0,2,0,W.N Aggrey,Dr,,,,3,Petroleum,78
+Petroleum Engineering Lab I,PETE,375,0,0,2,0,A.Hama,Dr,,,,3,Petroleum,78
+Reservoir Petrophysics,PETE,357,0,0,3,0,A.Hama,Dr,,,,3,Petroleum,78
+Reservoir Engineering,PETE,359,0,0,3,0,W.N Aggrey,Dr,,,,3,Petroleum,78
+Petro- Technical And Economics,PETE,451,0,0,3,0,W.N Aggrey,Dr,,,,4,Petroleum,67
+Design Project I,PETE,453,0,0,2,0,All Lecturers,Dr,,,,4,Petroleum,67
+Reservoir Simulation,PETE,455,0,0,3,0,W.N. Aggrey,Dr,,,,4,Petroleum,67
+Reservoir Models and Development,PETE,457,0,0,3,0,W.N Aggrey,Dr,,,,4,Petroleum,67
+Well logging,PETE,459,0,0,3,0,W.N Aggrey,Dr,,,,4,Petroleum,67
+Reservoir Recovery Techniques,PETE,467,0,0,2,0,W.N Aggrey,Dr,,,,4,Petroleum,67
+Environmental Management,PETE,461,0,0,2,0,Dr. S.K Donyinah,Dr,,,,4,Petroleum,67
+Environmental Engineering Technology,PETE,465,0,0,2,0,Dr. S.K Donyinah,Dr,,,,4,Petroleum,67
+Fuels and Combustion Technology,PCE,461,0,0,2,0,Dr. M.Y Woode,Dr,,,,4,Petroleum,67
+Enhanced Oil Recovery,PETE,463,0,0,2,0,W.N Aggrey,Dr,,,,4,Petroleum,67
+Algebra,MATH,155,4,0,4,0,J. Ackora-Prah,Dr,,,,1,Telecom,98
+Communication Skills I,ENGL,157,2,0,2,0,K. Baah Gyamfi,Dr,,,,1,Telecom,98
+Environmental Studies,CE,155,2,0,2,0,Prof. Esi Awuah,Dr,,,,1,Telecom,98
+Technical Drawing,ME,159,1,3,2,0,Mr. F. Davies,Dr,,,,1,Telecom,98
+Basic Mechanics,ME,161,3,1,3,0,Dr. Ampofo,Dr,,,,1,Telecom,98
+Applied Electricity,EE,151,2,2,3,0,Mr. E. Frimpong,Dr,,,,1,Telecom,98
+Engineering Technology,EE,153,0,4,2,0,Mr. G. E. Afari,Dr,,,,1,Telecom,98
+Differential Equations,MATH,251,4,0,4,0,E. Agyeman,Dr,,,,2,Telecom,76
+Literature in English I,ENGL,263,1,0,1,0,E.Y. Ayepkle,Dr,,,,2,Telecom,76
+C Programming,COE,251,2,3,3,0,Mr. J. G. Nuamah,Dr,,,,2,Telecom,76
+Semiconductor Devices,EE,271,2,0,2,0,Dr. K. Diawuo,Dr,,,,2,Telecom,76
+Circuit Theory,EE,287,2,0,2,0,Prof. E. A. Jackson,Dr,,,,2,Telecom,76
+Analog Communication Systems,TE,271,2,0,2,0,Rev. Dr. J. K. Oppong,Dr,,,,2,Telecom,76
+Telecommunication Lab I,TE,291,0,6,2,0,All staff,Dr,,,,2,Telecom,76
+Numerical Analysis,MATH,351,2,0,2,0,F. Boateng,Dr,,,,3,Telecom,118
+Probability And Statistics,MATH,353,2,0,2,0,D Asamoah Owusu,Dr,,,,3,Telecom,118
+Linear Electronic Circuits,EE,371,2,2,3,0,Dr. K. Diawuo,Dr,,,,3,Telecom,118
+Microprocessors,COE,381,2,2,3,0,Dr. K. O. Boateng,Dr,,,,3,Telecom,118
+Signals And Systems,TE,385,2,0,2,0,Prof. E. A. Jackson,Dr,,,,3,Telecom,118
+Information Theory,TE,361,2,0,2,0,Dr. A-R Ahmed,Dr,,,,3,Telecom,118
+Optical Communications,TE,381,2,0,2,0,Dr. J. J. Kponyo,Dr,,,,3,Telecom,118
+Telecommunication Lab III,TE,391,0,9,2,0,All staff,Dr,,,,3,Telecom,118
+Computer Application And Project Design,TE,461,3,1,3,0,Dr. J. J. Kponyo,Dr,,,,4,Telecom,150
+Electromagnetic Compatibility,TE,471,3,0,3,0,Dr. A-R Ahmed,Dr,,,,4,Telecom,150
+Wireless Data Communication Networks,TE,481,3,0,3,0,Rev. Dr. J. K. Oppong,Dr,,,,4,Telecom,150
+Project I,TE,497,0,6,3,0,All staff,Dr,,,,4,Telecom,150
+Engineering Economics And Management,ME,491,3,0,3,0,Mrs Intsiful,Dr,,,,4,Telecom,150
+Industrial Training,EE,489,,,1,0,Helena,Dr,,,,4,Telecom,150
+Computer Networking,COE,475,3,0,3,0,Dr. K. O. Boateng,Dr,,,,4,Telecom,150
+Algebra,MATH,151,4,0,4,0,W. O. Denteh,Dr,,,,1,Electrical,80
+Communication Skills I,ENGL,157,1,3,2,0,J. Oppong Asare,Dr,,,,1,Electrical,80
+Technical Drawing,ME,159,2,0,2,0,R. Opoku,Dr,,,,1,Electrical,80
+Basic Mechanics,ME,161,3,1,3,0,L. D. Mensah,Dr,,,,1,Electrical,80
+Applied Electricity,EE,151,3,1,3,0,Dr. F. B. Effah,Dr,,,,1,Electrical,80
+Environmental Studies,CE,155,2,0,2,0,R. Buamah,Dr,,,,1,Electrical,80
+Engineering Technology,EE,153,0,4,2,0,Prof. P.Y. Okyere,Dr,,,,1,Electrical,80
+Differential Equations,MATH,251,4,0,4,0,F. T. Oduro,,,,,2,Electrical,130
+C Programming,COE,251,2,3,3,0,J. Yankey,,,,,2,Electrical,130
+Semiconductor Devices,EE,271,2,0,2,0,Mr. B. Kommey,,,,,2,Electrical,130
+Circuit Theory,EE,287,3,0,3,0,Mr. G. Adom-Bamfi,,,,,2,Electrical,130
+Asynchronous & DC Machines,EE,261,3,0,3,0,Prof. P. Y. Okyere,,,,,2,Electrical,130
+Electrical Engineering Lab I,EE,291,0,9,2,0,Dr. E. A. Frimpong,,,,,2,Electrical,130
+Numerical Methods,MATH,351,2,0,2,0,P. Amoako-Yirenkyi,,,,,3,Electrical,79
+Probability And Statistics,MATH,353,2,0,2,0,G. A. Okyere,,,,,3,Electrical,79
+Linear Electronic Circuits,EE,371,2,2,3,0,S. Agbemenu,,,,,3,Electrical,79
+Microprocessors,COE,381,2,2,3,0,J. Yankey,,,,,3,Electrical,79
+Power Generation And Supply,EE,367,2,0,2,0,Mr. E. O. K. Addo,,,,,3,Electrical,79
+Analogue Communication Systems,TE,271,2,2,3,0,Dr. S.M. Ellis,,,,,3,Electrical,79
+Electrical Services Design,EE,365,1,6,2,0,Mr. E. O. K. Addo,,,,,3,Electrical,79
+Classical Control Systems,EE,387,2,0,2,0,Dr. D. Opoku,,,,,3,Electrical,79
+Computer Networking,COE,475,3,2,4,0,Dr. K.A.B. Opare,,,,,4,Electrical,90
+Engineering Economy & Management,ME,491,2,0,2,0,L. D. Mensah,,,,,4,Electrical,90
+Power Systems Operation & Control,EE,467,3,0,3,0,Dr. E. K. Anto,,,,,4,Electrical,90
+Project I,EE,497,0,6,3,0,All Academic Staff,,,,,4,Electrical,90
+Wireless Data Communication Network,TE,481,3,0,3,0,Mr. K. A. P. Agyekum,,,,,4,Electrical,90
+Special Electrical Machines,EE,463,3,0,3,0,Dr. E.  K. Anto,,,,,4,Electrical,90
+Algebra,MATH,151,4,0,4,0,P. R. Nyarko,,,,,1,Geological,78
+Communication Skills I,ENGL,157,2,0,2,0,P. Yeboah,,,,,1,Geological,78
+Basic Geology,GED,151,2,2,3,0,S. K. Y. Gawu,,,,,1,Geological,78
+Engineering Technology,GED,153,0,2,1,0,C. G. Amedjoe/ M. C. Wilson,,,,,1,Geological,78
+Elementary Structures,CE,151,2,1,2,0,R. O. Afrifa,,,,,1,Geological,78
+Technical Drawing,ME,159,1,3,2,0,F. Davies,,,,,1,Geological,78
+Basic Mechanics,ME,161,3,1,3,0,F. B. Adam,,,,,1,Geological,78
+Differential Equations,MATH,251,4,0,4,0,P. R. Nyarko,,,,,2,Geological,117
+Mineralogy,GED,251,2,2,3,0,C. G. Amedjoe,,,,,2,Geological,117
+Physical Geology,GED,253,2,2,3,0,E. Mensah,,,,,2,Geological,117
+Computer Programming,GED,267,1,2,2,0,M. C. Wilson/ S. Bansah,,,,,2,Geological,117
+Strength of Materials,CE,251,1,2,2,0,G. Sossou,,,,,2,Geological,117
+Theory of Structures,CE,255,2,2,3,0,G. Sossou,,,,,2,Geological,117
+Engineering in Society,CENG,291,1,4,2,0,M. C Wilson/ G. C. Amedjoe,,,,,2,Geological,117
+Numerical Analysis,MATH,351,2,0,2,0,P. Yirenkyi,,,,,3,Geological,120
+Statistics,MATH,353,2,0,2,0,A. Y. Omari- Sasu,,,,,3,Geological,120
+Petrology,GED,351,2,2,3,0,G. Foli,,,,,3,Geological,120
+Geological Field Mapping,GED,353,1,6,3,0,S. K. Y. Gawu,,,,,3,Geological,120
+Engineering Geology I,GED,355,2,1,2,0,S. S. R. Gidigasu,,,,,3,Geological,120
+Basic Hydrology,GED,357,2,1,2,0,E. K. Appiah- Adjei,,,,,3,Geological,120
+Photogeology & Remote Sensing,GED,359,2,2,3,0,A. Duker,,,,,3,Geological,120
+Soil Mechanics,CE,359,2,2,3,0,F. Owusu- Nimo,,,,,3,Geological,120
+Regional Geology,GED,451,3,0,3,0,G. Foli,,,,,4,Geological,150
+Engineering Geological II,GED,453,2,1,2,0,B. Ali,,,,,4,Geological,150
+Hydrogeology I,GED,455,3,1,3,0,E. K. Appiah- Adjei,,,,,4,Geological,150
+Project I,GED,457,1,6,3,0,E. K. Appiah- Adjei / All Staff,,,,,4,Geological,150
+Exploration Geochemistry,GED,459,2,1,2,0,S. K. Y. Gawu,,,,,4,Geological,150
+Exploration Geophysics,GED,461,2,1,2,0,B. Ali,,,,,4,Geological,150
+Industrial Training,GED,471,0,0,0,0,S. S. R. Gidigasu,,,,,4,Geological,150
+Geotechnical Engineering,CE,477,3,2,3,0,S. I. K. Ampadu / B. Ali,,,,,4,Geological,150
+Cartography I,GE,151,2,3,3,0,J. Quaye-Ballard,,,,,1,Geomatic,90
+Basic Surveying Principles I,GE,167,2,3,3,0,J. Ayer,,,,,1,Geomatic,90
+Applied Optics,GE,171,2,0,2,0,S.A. Andam-Akorful,,,,,1,Geomatic,90
+Algebra,MATH,151,4,0,4,0,C. Sebil,,,,,1,Geomatic,90
+Technical Drawing,ME,159,1,3,2,0,J Aveyire,,,,,1,Geomatic,90
+Basic Mechanics,ME,161,3,1,3,0,F.W Adam,,,,,1,Geomatic,90
+Communication Skills I,ENGL,157,2,0,2,0,P. Abaka,,,,,1,Geomatic,90
+Differential Equation,MATH,251,4,0,4,0,K. F. Darkwa,,,,,2,Geomatic,96
+Literature in English I,ENGL,263,1,0,1,0,P. A. Abakah,,,,,2,Geomatic,96
+Photogrammetry I,GE,251,2,3,3,0,A B. Agyemang,,,,,2,Geomatic,96
+Field Astronomy,GE,261,2,3,3,0,J. Ayer,,,,,2,Geomatic,96
+Information Science And Programming,GE,263,2,3,3,0,A. A. Acheampong,,,,,2,Geomatic,96
+Engineering Surveying,GE,271,2,3,3,0,E. M. Osei Jnr,,,,,2,Geomatic,96
+Marine And Geodetic Science,GE,281,2,1,2,0,I. Dadzie,,,,,2,Geomatic,96
+Engineering in society,CENG,291,0,8,2,0,Y. M. Asare,,,,,2,Geomatic,96
+Probability And Statistics,MATH,351,2,0,2,0,G.A. Okyere,,,,,3,Geomatic,89
+Highway And Transportation Engineering I,CE,367,2,3,3,0,D. A. Obeng,,,,,3,Geomatic,89
+Photogrammetry II,GE,351,2,3,3,0,A.B. Agyemang,,,,,3,Geomatic,89
+Geodetic Surveying I,GE,353,2,3,3,0,I. Dadzie,,,,,3,Geomatic,89
+Remote Sensing II,GE,361,2,3,3,0,A. A. Duker,,,,,3,Geomatic,89
+Survey Adjustment I,GE,371,2,3,3,0,C. Fosu,,,,,3,Geomatic,89
+Accounting I,CSM,157,2,0,2,0,Matthew,,,,,3,Geomatic,89
+Elements Of Economics 1,ECON,151,2,0,2,0,Akola,,,,,3,Geomatic,89
+French For Communication 1,FC,181,2,0,2,0,Kudom,,,,,3,Geomatic,89
+Eng. Economy  And Entrepreneurship,CE,461,3,0,3,0,K.B. Nyarko,,,,,4,Geomatic,68
+Geodetic Surveying II,GE,451,2,3,3,0,C.Y. Asante,,,,,4,Geomatic,68
+Cadastral Surveying,GE,461,2,3,3,0,E. O. Akrofi,,,,,4,Geomatic,68
+Land and Geographic Information  System I,GE,463,2,3,3,0,E. K. Forkuo,,,,,4,Geomatic,68
+Project I,GE,491,2,4,4,0,All Lecturers,,,,,4,Geomatic,68
+Introduction To Aviation Technology,AERO,157,4,1,2,0,F. T. Oduro,,,,,1,Aerospace,69
+Environmental Studies,CE,155,2,0,2,0,Z. Ossei,,,,,1,Aerospace,69
+Applied Electricity,EE,151,2,2,3,0,E. A. Frimpong,,,,,1,Aerospace,69
+Communication Skills I,ENGL,157,2,0,2,0,K. B. Nyarko,,,,,1,Aerospace,69
+Algebra,MATH,151,2,2,4,0,F. Davis,,,,,1,Aerospace,69
+Introduction To Information Technology,ME,157,1,2,2,0,E. A. Adjei,,,,,1,Aerospace,69
+Technical Drawing,ME,159,1,2,3,0,J. Ampofo,,,,,1,Aerospace,69
+Differential Equations,MATH,251,4,1,4,0,K. F. Darkwah,,,,,2,Aerospace,89
+Literature in English I,ENGL,263,1,0,1,0,P. Abakah,,,,,2,Aerospace,89
+Dynamics of Solid Mechanics,ME,261,2,0,2,0,J. Ampofo,,,,,2,Aerospace,89
+Introduction to Fluid Mechanics,ME,251,2,0,2,0,Y. A. K. Fiagbe,,,,,2,Aerospace,89
+Engineering Materials I,ME,281,2,0,2,0,G. Takyi,,,,,2,Aerospace,89
+Strength of Materials I,ME,255,3,1,3,0,P. Y. Andoh,,,,,2,Aerospace,89
+Aerospace Engineering Vacation Training I,AERO,293,0,5,2,0,P. O. Tawiah,,,,,2,Aerospace,89
+Mechanical Engineering Laboratory I,ME,295,0,3,1,0,R. Opoku,,,,,2,Aerospace,89
+Engineering in Society,CENG,291,1,4,1,0,F. W. Adam,,,,,2,Aerospace,89
+Aerodynamics,AERO,351,3,0,3,0,E. W. Ramde,,,,,3,Aerospace,70
+Aerospace Industry & Engineering,AERO,391,3,0,3,0,G. Takyi,,,,,3,Aerospace,70
+Aerospace Engineering Lab. I,AERO,395,0,3,1,0,E. A. Adjei,,,,,3,Aerospace,70
+Introduction to Economics,ECON,151,2,0,2,0,E. Buabeng,,,,,3,Aerospace,70
+Automatic Control I,ME,363,2,1,2,0,E. A. Adjei,,,,,3,Aerospace,70
+Probability and Statistics,MATH,353,2,1,2,0,A. Y. Omari-Sasu,,,,,3,Aerospace,70
+Numerical Methods,MATH,351,2,1,2,0,P. A. Yirenkyi,,,,,3,Aerospace,70
+Aerospace Engineering Vacation Training II,AERO,393,0,5,2,0,P. O. Tawiah,,,,,3,Aerospace,70
+Project  I,AERO,497,0,6,3,,Academic Staff,,,,,4,Aerospace,55
+Aerospace Engineering Vacation Training III,AERO,493,0,5,2,,P. O. Tawiah,,,,,4,Aerospace,55
+Aviation Business Management,AERO,491,2,1,2,,A. K. Intsiful,,,,,4,Aerospace,55
+Aerospace Vehicle Design,AERO,473,3,2,4,,J. Ampofo,,,,,4,Aerospace,55
+Avionics,AERO,483,3,1,3,,F. W. Adam,,,,,4,Aerospace,55
+Aircraft Maintenance Engineering,AERO,495,2,1,2,,P.O Tawiah,,,,,4,Aerospace,55
+Mathematics I,MATH,151,0,0,4,0,J. Ackora-Prah,,,,,1,Civil,180
+Communication Skills I,ENGL,157,0,0,2,0,Adjei Forson,,,,,1,Civil,180
+Technical Drawing,ME,159,0,0,2,0,J. Aveyire,,,,,1,Civil,180
+Basic Mechanics,ME,161,0,0,3,0,P.O. Tawiah,,,,,1,Civil,180
+Elementary Structures,CE,157,0,0,3,0,R.O. Afrifa,,,,,1,Civil,180
+Engineering Technology,CE,151,0,0,2,0,V.K.A. Acquaah,,,,,1,Civil,180
+Intro to Information Technology,CE,157,0,0,1,0,E. Appiah-Effah/E.A. Donkor,,,,,1,Civil,180
+Building Science And Services 1,ARC,155,0,0,2,0,V. Kootin- Sanwu,,,,,1,Civil,180
+Elements Of Economics 1,ECON,151,0,0,2,0,John- Bosco Dramani,,,,,1,Civil,180
+French For Communication Purposes 1,FREN,181,0,0,2,0,D. Pimpong,,,,,1,Civil,180
+Differential Equations,MATH,251,0,0,4,0,K.F. Darkwah,,,,,2,Civil,112
+Literature in English,ENGL,263,0,0,1,0,P. Abaka,,,,,2,Civil,112
+Strength of Materials,CE,251,0,0,2,0,G. Sossou,,,,,2,Civil,112
+Theory of Structures,CE,255,0,0,3,0,J.W. Ampofo,,,,,2,Civil,112
+Computer Programming,CE,257,0,0,2,0,C. Gyamfi/J. B. Osei,,,,,2,Civil,112
+Engineering Geology,CE,259,0,0,2,0,V.K.A. Acquaah,,,,,2,Civil,112
+Principles of Design,CE,261,0,0,2,0,F.O.K. Anyemedu,,,,,2,Civil,112
+Computer Aided Design,CE,263,0,0,2,0,J. B. Osei,,,,,2,Civil,112
+Engineering in Society,CENG,291,0,0,2,0,H. Essandoh/E. Appiah-Effah,,,,,2,Civil,112
+Numerical Methods,MATH,351,0,0,2,0,P. Amoako-Yirenkyi,,,,,3,civil,140
+Statistics,MATH,353,0,0,2,0,G. A. Okyere,,,,,3,civil,140
+Engineering Surveying,GE,381,0,0,3,0,A. Arko-Adjei,,,,,3,civil,140
+Structural Analysis,CE,351,0,0,2,0,R.O. Afrifa/J. B. Osei,,,,,3,civil,140
+Reinforced Concrete Design,CE,353,0,0,3,0,R.O. Afrifa,,,,,3,civil,140
+Hydrology,CE,355,0,0,2,0,K.A. Adjei/C. Gyamfi,,,,,3,civil,140
+Soil Mechanics,CE,359,0,0,3,0,F. Owusu-Nimo,,,,,3,civil,140
+Highway And Transportation Engineering I,CE,367,0,0,2,0,C. A. Adams,,,,,3,civil,140
+Engineering Economy And Entrepreneurship,CE,461,0,0,3,0,K.B. Nyarko/E. A. Donkor,,,,,4,Civil,79
+Irrigation And Drainage Engineering,CE,471,0,0,2,0,G.K. Anornu,,,,,4,Civil,79
+Structural Engineering I,CE,451,0,0,3,0,J. W. Ampofo/ M. Adom Asamoah,,,,,4,Civil,79
+Drainage Systems,CE,457,0,0,3,0,G.K. Anornu/ S. N. Odai,,,,,4,Civil,79
+Water And Waste Water Engineering,CE,463,0,0,3,0,R. A. Buamah/ S. Oduro-Kwarteng,,,,,4,Civil,79
+Highway Engineering,CE,467,0,0,3,0,Y. A. Tuffour,,,,,4,Civil,79
+Development Engineering,CE,473,0,0,3,0,S. I. K. Ampadu/ Y. A. Tuffour,,,,,4,Civil,79
+Systems Engineering I,CE,475,0,0,3,0,E. A. Donkor,,,,,4,Civil,79
+Geotechnical Engineering I,CE,477,0,0,3,0,S. I. K. Ampadu/ B. Ali,,,,,4,Civil,79
+Algebra,MATH,151,4,1,4,0,W. Obeng-Denteh,,,,,1,Mechanical,80
+Communication Skills I,ENGL,157,2,0,2,0,P. Abaka,,,,,1,Mechanical,80
+Applied Electricity,EE,151,2,2,3,0,A. R. Ahmed,,,,,1,Mechanical,80
+Environmental Studies,CE,155,2,0,2,0,R. Buamah,,,,,1,Mechanical,80
+Technical Drawing,ME,159,2,2,3,0,A.K. Sunnu/J. Afriyie,,,,,1,Mechanical,80
+Engineering Technology I,ME,195,0,5,2,0,P. O. Tawiah,,,,,1,Mechanical,80
+Introduction to Information Technology,ME,157,1,2,2,0,M. N. Sackey,,,,,1,Mechanical,80
+Differential Equations,MATH,251,4,1,4,0,F. T. Oduro,,,,,2,Mechanical,85
+Literature in English I,ENGL,263,1,0,1,0,P. Abakah,,,,,2,Mechanical,85
+Dynamics of Solid Mechanics,ME,261,2,0,2,0,J. Ampofo,,,,,2,Mechanical,85
+Introduction to Fluid Mechanics,ME,251,2,0,2,0,Y. A. K Fiagbe,,,,,2,Mechanical,85
+Engineering Materials I,ME,281,2,0,2,0,G. Takyi,,,,,2,Mechanical,85
+Strength of Materials I,ME,255,3,1,3,0,P. Y. Andoh,,,,,2,Mechanical,85
+Applications of Computer Graphics,ME,259,2,2,3,0,M. N. Sackey,,,,,2,Mechanical,85
+Mechanical Engineering Laboratory I,ME,295,0,3,1,0,R. Opoku,,,,,2,Mechanical,85
+Engineering in Society,CENG,291,0,1,1,0,F. W. Adam,,,,,2,Mechanical,85
+Machine Element Design,ME,373,3,0,3,0,P. Y. Andoh,,,,,3,Mechanical,100
+Dynamics of Machinery,ME,361,3,0,3,0,S. M. Sackey,,,,,3,Mechanical,100
+Mechanical Engineering Lab. III,ME,395,0,3,1,0,Y. A. K. Fiagbe,,,,,3,Mechanical,100
+Thermodynamics II,ME,365,3,0,3,0,F. K. Forson,,,,,3,Mechanical,100
+Automatic Control I,ME,363,2,1,2,0,E. A. Adjei,,,,,3,Mechanical,100
+Probability and Statistics,MATH,353,2,1,2,0,A. Y. Omari-Sasu,,,,,3,Mechanical,100
+Numerical Analysis,MATH,351,2,1,2,0,P. A. Yirenkyi,,,,,3,Mechanical,100
+Introduction to Economics I,ECON,151,2,0,2,0,E. Buabeng,,,,,3,Mechanical,100
+Engineering Economy & Management,ME,491,2,0,2,0,A. K. Intsiful,,,,,4,Mechanical,90
+Hydraulics and Pneumatics,ME,453,3,1,3,0,Y. A. K. Fiagbe,,,,,4,Mechanical,90
